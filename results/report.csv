@@ -1,0 +1,22 @@
+Sequence ID                                                                                                , Length    , A      , T      , G      , C      , GC Content
+"OY754452.1 Escherichia coli isolate S138 genome assembly, chromosome: 1"                                  , 5007898   , 1233084, 1236939, 1271722, 1266153,      50.68
+"CBFDRX010000877.1 soil metagenome genome assembly, contig: S7Ck141_521614, whole genome shotgun sequence" ,   13725   ,    3486,    3161,    3485,    3593,      51.57
+"CBFDMA010000328.1 soil metagenome genome assembly, contig: S1Ck141_437519, whole genome shotgun sequence" ,    4787   ,    1210,    1273,    1194,    1110,      48.13
+"CBFDLU010000110.1 soil metagenome genome assembly, contig: S3Ck141_626838, whole genome shotgun sequence" ,   65585   ,   20038,   19121,   13945,   12481,      40.29
+"CBFDPI010000011.1 soil metagenome genome assembly, contig: S1Ck141_1116334, whole genome shotgun sequence",  569788   ,  120826,  111422,  165883,  171657,      59.24
+"CBFDLY010000036.1 soil metagenome genome assembly, contig: S2Ck141_599643, whole genome shotgun sequence" ,  194950   ,   66113,   61525,   34868,   32444,      34.53
+"CBFDMJ010000009.1 soil metagenome genome assembly, contig: S4Ck141_1104983, whole genome shotgun sequence",   11417   ,    1751,    2081,    3813,    3772,      66.44
+"CBFDIG010000028.1 soil metagenome genome assembly, contig: S1Ck141_739267, whole genome shotgun sequence" ,  251096   ,   44547,   44138,   80073,   82338,      64.68
+"CBFDHL010000097.1 soil metagenome genome assembly, contig: S3Ck141_585007, whole genome shotgun sequence" ,   37782   ,    6332,    6390,   12459,   12601,      66.33
+"CBFDIA010000031.1 soil metagenome genome assembly, contig: S5Ck141_144848, whole genome shotgun sequence" ,   51274   ,    8390,    8660,   17444,   16780,      66.75
+"CBFDPO010000120.1 soil metagenome genome assembly, contig: S6Ck141_371626, whole genome shotgun sequence" ,   11452   ,    2174,    1894,    3594,    3790,      64.48
+"CBFDHP010000014.1 soil metagenome genome assembly, contig: S1Ck141_887310, whole genome shotgun sequence" ,  948346   ,  296189,  292453,  181120,  178584,      37.93
+"CBFDIR010000022.1 soil metagenome genome assembly, contig: S2Ck141_981341, whole genome shotgun sequence" ,   58147   ,   17385,   15158,   13208,   12396,      44.03
+"CP026923.1 Pontimonas salivibrio strain CL-TW6 chromosome, complete genome"                               , 1760810   ,  366878,  366767,  513930,  513235,      58.33
+"NZ_CP140773.1 Chitinophaga sp. 180180018-2 chromosome, complete genome"                                   , 8131931   , 2173475, 2194117, 1879254, 1885085,      46.29
+"NZ_CP140772.1 Chitinophaga sp. 180180018-3 chromosome, complete genome"                                   , 8131986   , 2173478, 2194111, 1879272, 1885125,      46.29
+"NZ_CP140771.1 Chitinophaga sp. 212800008-4 chromosome, complete genome"                                   , 8110254   , 2168274, 2188263, 1873652, 1880065,      46.28
+"NZ_JAXUID010000011.1 Chitinophaga sp. 212800010-3 contig_0011, whole genome shotgun sequence"             ,     240   ,      43,      82,      54,      61,      47.92
+"NZ_JAXUID010000009.1 Chitinophaga sp. 212800010-3 contig_0009, whole genome shotgun sequence"             ,     334   ,      79,     101,      76,      78,      46.11
+
+Average GC Content (%)                                                                                     ,      51.91
